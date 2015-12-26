@@ -1,4 +1,12 @@
-[chrome plugin, stock]
+<!--
+author: 滇西之王
+date: 2015-11-31
+title: chrome插件跨域
+tags: chrome插件
+category: javascript
+status: publish
+summary:本文主要讲谷歌插件的跨域问题
+-->
 
 
 chrome插件开发中，**XMLHttpRequest ** 对象的[same origin policy](https://en.wikipedia.org/wiki/Same_origin_policy)(同源策略),在chrome插件中没有受到限制。

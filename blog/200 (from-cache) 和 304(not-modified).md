@@ -41,7 +41,7 @@ summary: 介绍了浏览器的两种缓存机制200(from cache) 304(not-modified
 |F5刷新|**无效**|**无效**|
 |Ctrl+F5刷新|**无效**|**无效**|
 ###减少304请求
-这个我可以在后台服务器设置，如在nginx的设置，我们可以设置
+这个可以在后台服务器设置，如在nginx的设置，我们可以设置
 
 ```roboconf
  location ~ .*\.(jpg|png|gif|js|css|swf|flv|ico)$ { 

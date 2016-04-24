@@ -1,7 +1,7 @@
 <!--
 author: 滇西之王
 head: http://q.qlogo.cn/qqapp/100229475/C96DA226D9D07DECADAA54A78E9FEDF9/100
-date: @2015-12-27
+date: 2015-12-27
 title: web前端开发注意事项
 tags: css
 category: css

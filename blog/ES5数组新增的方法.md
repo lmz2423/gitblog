@@ -1,7 +1,7 @@
 <!--
 author: 滇西之王
 head: http://q.qlogo.cn/qqapp/100229475/C96DA226D9D07DECADAA54A78E9FEDF9/100
-date: @date
+date: 2016-03-13
 title:javascript array对象常用的方法
 tags: GitBlog
 category: javascript
